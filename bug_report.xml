@@ -1,1 +1,13 @@
-
+<Summary> oshibka vhoda na sait pod uchetnymi dannymi </Summary>
+ <Project> site.com </Project>
+ <Component> main page </Component>
+ <Severity> S2 </Severity>
+ <Priority> P1 </Priority>
+ <Author> QA </Author>
+ <Assigned To> Developer </Assigned To>
+ <Browser> Firefox 97.0.1 x64 </Browser>
+ <Description> pri vvode login and pass glavnaya stranitsa zavisaet </Description>
+ <Steps to Reproduce> Vhod na sait cheres Mozilla Firefox, popytka zaloginitsya </Steps to Reproduce>
+ <Result> Zavisanie saita </Result>
+ <Expected Result> Log In site </Expected Result>
+ <Attachment> Log file. rec of screen </Attachment>
