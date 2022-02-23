@@ -7,7 +7,7 @@
  <Assigned To> Developer </Assigned To>
  <Browser> Firefox 97.0.1 x64 </Browser>
  <Description> pri vvode login and pass glavnaya stranitsa zavisaet </Description>
- <Steps to Reproduce> Vhod na sait cheres Mozilla Firefox, popytka zaloginitsya </Steps to Reproduce>
+ <Steps_to_Reproduce> Vhod na sait cheres Mozilla Firefox, popytka zaloginitsya </Steps_to_Reproduce>
  <Result> Zavisanie saita </Result>
- <Expected Result> Log In site </Expected Result>
+ <Expected_Result> Log In site </Expected_Result>
  <Attachment> Log file. rec of screen </Attachment>
